@@ -48,12 +48,7 @@ It explores patterns in Netflix content including content type, genres, countrie
 
 
 
-## 🧑‍💻 Author
-**Krishna Bhandari**  
-- 2nd-year BCA student  
-- Learning Data Science & Analytics  
-- This is my first data project (Spotify coming soon!)
 
----
+
 
 
